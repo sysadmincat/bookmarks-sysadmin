@@ -1,5 +1,11 @@
 # Bookmarks sysadmin
 
+## Applied Security
+
+### Web Security
+
+* [Introduction to Web Security](http://www.dis.uniroma1.it/~damore/was/slides/IntroWebApplSecurityEngl.pdf), by Fabrizio d’Amore, Sapienza University of Rome
+
 ## VMware
 
 ### Notable KBs
